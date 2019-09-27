@@ -1,8 +1,8 @@
 #+TITLE: test page
 #+AUTHOR: syskay
 #+EMAIL: syskay@gmail.com
-# #+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
-#+REVEAL_ROOT: stylesheets/reveal.js/
+# #+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.8.0/
+#+REVEAL_ROOT: stylesheets/reveal.js-3.8.0/
 
 * Introduction
   Some text
